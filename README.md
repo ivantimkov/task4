@@ -55,7 +55,7 @@ DELETE /items/:id
 ```
 
 ## Documentation
-The API documentation is available on Postman: [https://web.postman.co/workspace/009328f4-fc1d-4cc3-88e4-af50cde825c7/documentation/41795951-2728e26a-1693-46ac-8a35-579a3a621226](#)
+The API documentation is available on Postman: [https://documenter.getpostman.com/view/41795951/2sAYXECcy](#)
 
 
 
